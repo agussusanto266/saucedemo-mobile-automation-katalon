@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PRD-TC-P005_Success view detail product</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>77ee6e2a-a694-4190-9d51-786665054145</testCaseGuid>
+</TestCaseEntity>
